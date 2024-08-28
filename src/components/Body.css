@@ -15,7 +15,4 @@ img{
 .CustomBtn{
     @apply px-6 py-3 bg-gradient-to-r from-[#5001fb] to-[#8e0af3] rounded-md text-white font-semibold
 }
-.iconEl span:hover{
-    fill: #4070f4;
 
-}

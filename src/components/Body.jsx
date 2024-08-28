@@ -6,7 +6,7 @@ import IonLogoLinkedin from '../assets/IonLogoLinkedin'
 import BiGithub from '../assets/BiGithub'
 const Body = () => {
   return (
-    <div className='grid grid-cols-3 grid-rows-1 gap-2 items-center justify-center px-5 md:px-10 lg:px-36'>
+    <div className='grid grid-cols-3 grid-rows-1 gap-2 items-center justify-center   px-5 md:px-10 lg:px-36'>
       <div className=' sm:hidden'>
         <img className=' border-[#0d6efd] shadow-xl border mt-5' src={Anbu} alt="Anbarasan-subramani" />
       </div>

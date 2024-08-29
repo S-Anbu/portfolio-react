@@ -7,7 +7,9 @@ function App() {
   return (
     <>
     <Navcomponent/>
+    <div className='mt-12'>
     <Body/>
+    </div>
     </>
   )
 }
